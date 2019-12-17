@@ -1,1 +1,1 @@
-# ntua_telecommunications
+# Telecommunications-NTUA
